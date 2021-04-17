@@ -1,0 +1,14 @@
+{
+        "autoload":
+     {
+        "psr-4":
+         {
+            "news\\":"app"
+        }
+    },
+        "require": 
+        {
+                "dcblogdev/pdo-wrapper": "^2.0",
+                "wixel/gump": "^1.12"
+        }
+}
